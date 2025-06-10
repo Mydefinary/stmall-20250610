@@ -1,4 +1,4 @@
-# 
+# ktaivle cna 수업에서 만든 코드. 12번가 서비스 제작
 
 ## Model
 www.msaez.io/#/courses/cna-full/2c7ffd60-3a9c-11f0-833f-b38345d437ae/event-design
